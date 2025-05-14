@@ -11,7 +11,7 @@ TaskMate Frontend is a **React web application** for task management. It allows 
 -  **Team collaboration features**
 -  **Responsive UI with Material-UI and Framer Motion animations**
 
-### 🛠️ Tech Stack
+### Tech Stack
 -  **React**
 -  **React Router**
 - **Material-UI (MUI)**
